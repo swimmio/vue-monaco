@@ -1,6 +1,6 @@
 {
-  "name": "vue-monaco",
-  "version": "0.3.1",
+  "name": "@swimm/vue-monaco",
+  "version": "0.3.2+swimm",
   "description": "MonacoEditor component for Vue.js",
   "repository": {
     "url": "egoist/vue-monaco",
