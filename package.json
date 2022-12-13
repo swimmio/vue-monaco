@@ -1,6 +1,6 @@
 {
   "name": "@swimm/vue-monaco",
-  "version": "1.2.4+swimm",
+  "version": "1.2.5+swimm",
   "description": "MonacoEditor component for Vue.js",
   "repository": {
     "url": "egoist/vue-monaco",
@@ -22,7 +22,7 @@
   "author": "egoist <0x142857@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "monaco-editor": "^0.20.0",
+    "monaco-editor": "^0.33.0",
     "nano-assign": "^1.0.0"
   },
   "devDependencies": {
